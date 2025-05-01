@@ -1,6 +1,6 @@
 # Collaboration Guidelines and Codebase Quality Standards
 
-To ensure smooth collaboration and maintain the high quality of our codebase, please adhere to the following guidelines:
+I (rezoned) have tested these steps to be very efficient 
 
 ## Branching Strategy
 
